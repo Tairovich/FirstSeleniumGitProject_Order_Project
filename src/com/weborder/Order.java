@@ -99,7 +99,7 @@ public class Order {
 			System.out.println("Oops! Something went wrong. Check your details carefully");
 		}
 	}
-	
+
 	public static String cardNumber() {
 		String num = "";
 		Random r = new Random();
