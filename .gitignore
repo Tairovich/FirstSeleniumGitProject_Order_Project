@@ -1,5 +1,7 @@
 .settings
 bin/
+.classpath
+.gitignore
 .DS_Store
 
 
